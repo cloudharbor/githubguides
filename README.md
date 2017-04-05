@@ -8,6 +8,20 @@ https://guides.github.com/introduction/flow/
 
 https://guides.github.com/features/pages/
 
+https://guides.github.com/introduction/getting-your-project-on-github/
+
+https://guides.github.com/activities/forking/
+
+https://guides.github.com/activities/socialize/
+
+https://guides.github.com/activities/citable-code/
+
+https://guides.github.com/features/issues/
+
+https://guides.github.com/features/mastering-markdown/
+
+https://guides.github.com/features/wikis/
+
 # ProTip
 
 Rule: anything in the master branch is always deployable.
