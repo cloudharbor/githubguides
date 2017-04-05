@@ -6,6 +6,7 @@ https://guides.github.com/activities/hello-world/
 
 https://guides.github.com/introduction/flow/
 
+https://guides.github.com/features/pages/
 
 # ProTip
 
